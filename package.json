@@ -1,0 +1,27 @@
+{
+  "name": "react-toggleable",
+  "version": "1.0.0",
+  "description": "Reusable component that focus on inner working of toggleable components",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hartantothio/react-toggleable.git"
+  },
+  "keywords": [
+    "react",
+    "toggleable"
+  ],
+  "author": "Hartanto Thio <i@hartantothio.com> (http://www.hartantothio.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hartantothio/react-toggleable/issues"
+  },
+  "homepage": "https://github.com/hartantothio/react-toggleable#readme",
+  "dependencies": {
+    "prop-types": "^15.6.1",
+    "react": "^16.3.2"
+  }
+}
